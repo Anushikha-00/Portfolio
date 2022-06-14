@@ -71,7 +71,7 @@ $(document).ready(function(){
             }
         }
     });
-
+/*
     <div>
     <a
       href="https://www.linkedin.com/in/anushikha-097b43192/"
@@ -82,5 +82,5 @@ $(document).ready(function(){
     <a href="https://github.com/Anushikha-00" target="_blank">
       <img src="images/github.png" alt="githubImage" />
     </a>
-  </div>
+  </div>*/
 });
